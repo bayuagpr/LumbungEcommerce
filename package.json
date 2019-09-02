@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.3.3",
+    "@reactioncommerce/components": "^0.67.2",
+    "@reactioncommerce/components-context": "^1.2.0",
+    "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-input-just-numbers": "^1.0.3",
+    "react-scripts": "3.1.1",
+    "react-slick": "^0.25.2",
+    "reacto-form": "^1.4.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^3.4.10"
   },
   "scripts": {
     "start": "react-scripts start",

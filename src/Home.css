@@ -1,0 +1,386 @@
+    .Home {
+        width: 375px;
+        height: 812px;
+        background-color: #ffffff;
+    }
+    
+    .ItemBuah {
+        margin-top: 24px;
+        flex-grow: 1;
+        max-width: 500;
+    }
+    
+    .SliderPromo {
+        margin-top: 20px;
+        flex-grow: 1;
+        max-width: 500;
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+    
+    .ListBuah {
+        margin-top: 26px;
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+    
+    .KeteranganBuah {
+        margin-left: 14px;
+    }
+    
+    .BoxPengiriman {
+        margin-top: 16px;
+    }
+    
+    .JarakPeta {
+        margin-left: 70px;
+    }
+    
+    .InputQuantity {
+        display: inline-block;
+    }
+    
+    .JudulBuah {
+        width: 129px;
+        height: 26px;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.3;
+        letter-spacing: normal;
+        text-align: left;
+        color: #212121;
+    }
+    
+    .DeskripsiBuah {
+        width: 191px;
+        height: 51px;
+        margin-top: 5px;
+        font-family: Roboto;
+        font-size: 12px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: left;
+        color: #aaaaaa;
+    }
+    
+    .HargaBuah {
+        width: 89.7px;
+        height: 21px;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.36;
+        letter-spacing: normal;
+        text-align: left;
+        color: #212121;
+    }
+    
+    .ProductImage {
+        width: 114px;
+        height: 114px;
+        object-fit: contain;
+        border-radius: 10px;
+    }
+    
+    .ProductButtonImage {
+        width: 114px;
+        height: 114px;
+    }
+    
+    .IconInput {
+        width: 19px;
+        height: 19px;
+        object-fit: contain;
+    }
+    
+    .IconInputButton {
+        width: 19px;
+        height: 19px;
+    }
+    
+    .FieldInput {
+        width: 36px;
+        height: 32px;
+        border-radius: 4px;
+        border: solid 1px #eaeaea;
+        background-color: #ffffff;
+    }
+    
+    .FieldInput-text {
+        font-family: Roboto;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #212121;
+    }
+    
+    .Button {
+        width: 88px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #2cd960;
+    }
+    
+    .ButtonBaseBeli {
+        width: 88px;
+        height: 32px;
+    }
+    
+    .Button-beli {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.19;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    
+    .CarouselPromo {
+        text-align: center;
+        width: 319px;
+        height: 134px;
+        border-radius: 10px;
+        background-color: #eaeaea;
+    }
+    
+    .CarouselPromo h3 {
+        margin-top: 54px;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.3;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000;
+    }
+    
+    .PurchaseHistory {
+        width: 23px;
+        height: 20px;
+        object-fit: contain;
+    }
+    
+    .ChatToolbar {
+        margin-left: 20px;
+        width: 18.9px;
+        height: 18px;
+        object-fit: contain;
+    }
+    
+    .logoToolbar {
+        width: 140px;
+        height: 140px;
+        border-radius: 10px;
+    }
+    
+    .AreaKirim {
+        margin-left: 20px;
+        margin-right: 20px;
+        width: 327px;
+        height: 73px;
+        border-radius: 4px;
+        border: solid 1px #eaeaea;
+        background-color: #ffffff;
+    }
+    
+    .PoinLokasi {
+        width: 14px;
+        height: 20px;
+        object-fit: contain;
+        margin-left: 17px;
+    }
+    
+    .PetaLokasi {
+        width: 18px;
+        height: 18px;
+        object-fit: contain;
+        margin-right: 17px;
+    }
+    
+    .Area-Pengiriman {
+        width: 121px;
+        height: 21px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.31;
+        letter-spacing: normal;
+        text-align: left;
+        color: #212121;
+    }
+    
+    .Kota-Pengiriman {
+        width: 47px;
+        height: 19px;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.36;
+        letter-spacing: normal;
+        text-align: left;
+        color: #aaaaaa;
+    }
+    
+    .FloatingBox {
+        width: 301px;
+        height: 53px;
+        background-color: #2cd960;
+    }
+    
+    .JumlahItem {
+        height: 21px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.31;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    
+    .DividerBadge {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.31;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    
+    .JumlahHarga {
+        width: 72px;
+        height: 21px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.31;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    
+    .KeteranganPromo {
+        width: 256px;
+        height: 13px;
+        font-family: Roboto;
+        font-size: 10px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.3;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    
+    .ButtonCart {
+        width: 22px;
+        height: 22px;
+        object-fit: contain;
+    }
+    
+    .ButtonImageCart {
+        width: 22px;
+        height: 22px;
+    }
+    
+    .PopupProduct {
+        padding-right: 24px;
+        padding-left: 24px;
+    }
+    
+    .ProductImageDetail {
+        width: 240px;
+        height: auto;
+        object-fit: contain;
+        border-radius: 10px;
+    }
+    
+    .JudulPopup {
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.2;
+        letter-spacing: normal;
+        text-align: left;
+        color: #212121;
+    }
+    
+    .DeskripsiPopup {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.19;
+        letter-spacing: normal;
+        text-align: left;
+        color: #aaaaaa;
+    }
+    
+    .HargaPopup {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.19;
+        letter-spacing: normal;
+        text-align: left;
+        color: #212121;
+    }
+    
+    .ButtonKeranjang {
+        width: 100px;
+        height: 53px;
+        border-radius: 4px;
+        background-color: #2cd960;
+    }
+    
+    .ButtonBaseKeranjang {
+        width: 250px;
+        height: 53px;
+    }
+    
+    .TextButtonKeranjang {
+        object-fit: contain;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.19;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
