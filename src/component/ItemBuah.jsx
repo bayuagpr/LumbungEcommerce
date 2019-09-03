@@ -72,7 +72,7 @@ class ItemBuah extends Component {
     
     return (
       <div className="ItemBuah">
-        <Grid container spacing={2}>
+        <Grid container >
           <Grid item>
             <ButtonBase  className={"ProductButtonImage"} onClick={clickProduct}>
             <img className="ProductImage" src={gambar} />
@@ -80,7 +80,7 @@ class ItemBuah extends Component {
           </Grid>
           <Grid item xs={6} container>
           <div className="KeteranganBuah">
-            <Grid item xs container direction="column" spacing={2}>
+            <Grid item xs container direction="column" >
               <Grid item xs>
               <div className="JudulBuah">Mangga</div>
               <div className="DeskripsiBuah">Mangga enak</div>
@@ -88,7 +88,7 @@ class ItemBuah extends Component {
          <Grid item xs={6}>
           <div className="HargaBuah">Rp.5000</div>
         </Grid>
-        <Grid item xs={6}>      
+        <Grid item xs={6} container justify="flex-end">      
           {beli ? (<InputQuantity increment={this.handleIncrementButton} decrement={this.handleDecrementButton} value={value} quantityChange={this.handleQuantityInputChange} />)
           :(<ButtonBeli nama="Beli" onClick={this.handleBeli}/>)}
         </Grid>
